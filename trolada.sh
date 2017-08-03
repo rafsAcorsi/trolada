@@ -1,5 +1,5 @@
 install() {
-	curl -L#o /var/tmp/lerolero.png https://static.omelete.uol.com.br/media/extras/conteudos/painel-painel-hulk-1-80-x-1-20m-painel-festa.jpg
+	curl -L#o /var/tmp/lerolero.png http://s2.glbimg.com/1CtQVBZw4-FKoZu5NbzDVp_Ttos=/i.glbimg.com/og/ig/infoglobo1/f/original/2016/09/27/bode.jpg
 	echo "open /var/tmp/lerolero.png" >> ~/.bash_profile
         source ~/.bash_profile
 }
